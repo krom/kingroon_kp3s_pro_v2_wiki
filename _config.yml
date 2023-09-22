@@ -1,2 +1,5 @@
-theme: jekyll-theme-cayman
-title: База знаний по принтеру Kingroon KP3S Pro V2
+title: Kingroon KP3S Pro V2 WiKi
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
