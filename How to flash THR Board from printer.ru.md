@@ -25,6 +25,8 @@
 * Отпускаем кнопку reset, boot продолжаем жать
 * Через несколько секунд отпускаем кнопку boot
 
+* ![THR](img/thr_boot_reset.png)
+
 ### 3. Заходим на принтер по SSH
 
 Выполните следующую команду
@@ -38,6 +40,8 @@ TBD
 Вы должны увидеть следующий текст. Это значит, что плата головы успешно вошла в режим загрузчика и видится принтером
 
 ```shell
+sudo su
+wget https://github.com/krom/kingroon_kp3s_pro_v2_wiki/raw/main/files/klipper.uf2
 mkdir /mnt/head/
 mount -t vfat /dev/sda1 /mnt/head/
 cp klipper.uf2 /mnt/head/
@@ -53,4 +57,5 @@ umount: /mnt/head: not mounted.
 
 ### 4. Перезагрузите Firmware или принтер
 
-Нажмите кнопку Reset firmware в веб интерфейсе клиппера или просто перезагрузите принтер
+Нажмите кнопку Firmware restart в веб интерфейсе клиппера или просто перезагрузите принтер
+![Screenshot](img/firmware_restart.png)
