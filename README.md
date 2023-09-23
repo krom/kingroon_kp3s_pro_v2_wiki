@@ -9,3 +9,6 @@
   * [Улитка обдува](upgrade/Blower_ru.md)
 * [Ремонт](repair)
   * [Прошивка платы головы из принтера](repair/How_to_flash_THR_Board_from_printer_ru.md)
+
+----
+[Группа в Telegram](https://t.me/kingroon_printers/384212)

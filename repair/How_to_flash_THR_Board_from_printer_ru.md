@@ -25,7 +25,7 @@
 * Отпускаем кнопку reset, boot продолжаем жать
 * Через несколько секунд отпускаем кнопку boot
 
-* ![THR](img/thr_boot_reset.png)
+* ![THR](../img/thr_boot_reset.png)
 
 ### 3. Заходим на принтер по SSH
 
@@ -68,4 +68,4 @@ umount: /mnt/head: not mounted.
 ### 4. Перезагрузите Firmware или принтер
 
 Нажмите кнопку Firmware restart в веб интерфейсе клиппера или просто перезагрузите принтер
-![Screenshot](img/firmware_restart.png)
+![Screenshot](../img/firmware_restart.png)
