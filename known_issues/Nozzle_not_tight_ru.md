@@ -4,7 +4,7 @@
 
 <div style="width: 60%; height: 60%">
 
-![hotend_leak](/img/hotend_leak.jpg)
+![hotend_leak](../img/hotend_leak.jpg)
 
 </div>
 

@@ -4,8 +4,8 @@
 
 <div style="width: 60%; height: 60%">
 
-![Вид спереди](/img/MKS_THR_Spacers_front.png)
+![Вид спереди](../img/MKS_THR_Spacers_front.png)
 
-![Вид сзади](/img/MKS_THR_Spacers_back.png)
+![Вид сзади](../img/MKS_THR_Spacers_back.png)
 
 </div>

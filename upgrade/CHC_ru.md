@@ -8,7 +8,7 @@
 
 <div style="width: 60%; height: 60%">
 
-![CHC](/img/CHC.jpg)
+![CHC](../img/CHC.jpg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div style="width: 60%; height: 60%">
 
-![CHC Pro](/img/CHC_Pro.jpg)
+![CHC Pro](../img/CHC_Pro.jpg)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 ![Hotend_w_extruder_new](/img/Hotend_w_extruder_new.jpg)
 
-![Hotend_new](/img/Hotend_new.jpg)
+![Hotend_new](../img/Hotend_new.jpg)
 
 </div>
 
