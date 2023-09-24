@@ -16,8 +16,8 @@
 
 # Kingroon KP3S Pro V2 Wiki [EN]
 * [Manauls](manuals)
-* [Известные проблемы](known_issues)
-* [tips and tricks](tips)
+* [Known issues](known_issues)
+* [Tips and tricks](tips)
 * [Upgrade](upgrade)
 * [Repair](repair)
 
