@@ -3,6 +3,7 @@
 
 * [Мануалы](manuals)
   * [SSH доступ](manuals/SSH_ru.md)
+  * [Настройка шагов экструдера](manuals/rotation_distance_ru.md)
 * [Известные проблемы](known_issues)
   * [Пластиковые проставки под платой на голове](known_issues/MKS_THR_Spacers_ru.md)
   * [Недостаточно затянутое сопло](known_issues/Nozzle_not_tight_ru.md) 
