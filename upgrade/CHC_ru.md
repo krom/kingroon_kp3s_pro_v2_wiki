@@ -29,7 +29,7 @@
 
 <div style="width: 60%; height: 60%">
 
-![Hotend_w_extruder_new](/img/Hotend_w_extruder_new.jpg)
+![Hotend_w_extruder_new](../img/Hotend_w_extruder_new.jpg)
 
 ![Hotend_new](../img/Hotend_new.jpg)
 
