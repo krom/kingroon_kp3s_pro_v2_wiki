@@ -8,7 +8,7 @@
 1. нужно иметь отформатированный под fat32 usb flash диск ( можно свой, а можно взять комплектный, который шел с принтером)
 2. на диске нужно создать файл wpa_supplicant-wlan0.conf со следующим содержимым:
 ```
-country=GB
+country=RU
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1
 
