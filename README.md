@@ -14,6 +14,7 @@
 * [Апгрейд](upgrade)
   * [Улитка обдува](upgrade/Blower_ru.md)
   * [Хитблок от CHC](upgrade/CHC_ru.md)
+  * [Установка датчика окончания филамента](upgrade/filament_runout_sensor_ru.md)
 * [Ремонт](repair)
   * [Прошивка платы головы из принтера](repair/How_to_flash_THR_Board_from_printer_ru.md)
 
@@ -22,6 +23,7 @@
 * [Known issues](known_issues)
 * [Tips and tricks](tips)
 * [Upgrade](upgrade)
+  * [Enable Filament Run Out Detection](upgrade/filament_runout_sensor_en.md)
 * [Repair](repair)
 
 ----
