@@ -21,7 +21,7 @@
 # Kingroon KP3S Pro V2 Wiki [EN]
 * [Manauls](manuals)
 * [Known issues](known_issues)
-  * [Nozzle is not tight](known_issues/Nozzle_not_tight_ru.md) 
+  * [Nozzle is not tight](known_issues/Nozzle_not_tight_en.md) 
 * [Tips and tricks](tips)
 * [Upgrade](upgrade)
   * [Enable Filament Run Out Detection](upgrade/filament_runout_sensor_en.md)

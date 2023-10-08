@@ -4,4 +4,4 @@
 * [Недостаточно затянутое сопло](Nozzle_not_tight_ru.md)
 
 # Know issues [EN]
-* [Nozzle is not tight](Nozzle_not_tight_ru.md)
+* [Nozzle is not tight](Nozzle_not_tight_en.md)
