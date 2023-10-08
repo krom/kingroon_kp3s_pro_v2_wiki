@@ -5,3 +5,6 @@
 ![Front View](../img/MKS_THR_Spacers_front.png)
 
 ![Back View](../img/MKS_THR_Spacers_back.png)
+
+> **Внимание!**
+> Данная проблема наблюдается только на первых ревизиях головы, на актуальной этих проставок уже нет
