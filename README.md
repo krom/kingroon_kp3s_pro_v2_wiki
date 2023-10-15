@@ -9,6 +9,7 @@
 * [Известные проблемы](known_issues)
   * [Пластиковые проставки под платой на голове](known_issues/MKS_THR_Spacers_ru.md)
   * [Недостаточно затянутое сопло](known_issues/Nozzle_not_tight_ru.md) 
+  * [Торчащие внутри балки X винты](known_issues/stick_out_screws_in_bolster_ru.md)
 * [Советы по печати](tips)
   * [Клей](tips/Printing_glue_ru.md)
 * [Апгрейд](upgrade)
