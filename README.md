@@ -3,7 +3,6 @@
 
 * [Мануалы](manuals)
   * [SSH доступ](manuals/ssh_ru.md)
-  * [Настройка шагов экструдера](manuals/rotation_distance_ru.md)
   * [Настройка wifi на принтере](manuals/wifi_connection_setup.md)
   * [Подключение к принтеру через сериальную консоль](manuals/serial_console_connection_ru.md)
 * [Известные проблемы](known_issues)
@@ -13,6 +12,7 @@
   * [Штатная улитка обдува не регулирует мощность](known_issues/Blowing_power_cannot_be_ajusted_ru.md)
   * [Проблема с упором головы по оси X](known_issues/x_offset_ru.md)
   * [Перевернутая скоба натяжителя ремня](known_issues/Inverted_tensioner_bracket_ru.md)
+  * [Неправильные настройки шагов экструдера](known_issues/rotation_distance_ru.md)<
 * [Советы по печати](tips)
   * [Клей](tips/Printing_glue_ru.md)
 * [Апгрейд](upgrade)
