@@ -19,6 +19,8 @@
   * [Улитка обдува](upgrade/Blower_ru.md)
   * [Хитблок от CHC](upgrade/CHC_ru.md)
   * [Установка датчика окончания филамента](upgrade/filament_runout_sensor_ru.md)
+  * [Направляющая для кабеля стола](upgrade/bed_cable_guide_ru.md)
+  * [Проставка между двигателем и фидером](upgrade/spacer_between_motor_and_feeder_ru.md)
 * [Ремонт](repair)
   * [Прошивка платы головы из принтера](repair/How_to_flash_THR_Board_from_printer_ru.md)
 
