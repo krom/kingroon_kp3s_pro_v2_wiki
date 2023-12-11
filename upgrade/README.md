@@ -1,4 +1,4 @@
-# Аргрейд [RU]
+# Апгрейд [RU]
 * [Улитка](Blower_ru.md)
 * [Хитблок от CHC](CHC_ru.md)
 * [Установка датчика окончания филамента](filament_runout_sensor_ru.md)
