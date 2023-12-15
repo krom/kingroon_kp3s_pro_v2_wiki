@@ -12,30 +12,30 @@ Fluidd - это web интерфейс принтера который стан�
     - нужно [зайти на принтер с помощью ssh](../manuals/ssh_ru.md)
     - переименовать директорию, в которой стоит текущий fluidd, например командой:  
 ```bash
-      mv fluidd fluidd.bak
+mv fluidd fluidd.bak
 ```
 
     - заново создать директорию fluidd и перейти в нее:
 
 ```bash
-      mkdir fluidd;cd fluidd
+mkdir fluidd;cd fluidd
 ```
 
     - загрузить последнюю версию fluidd:
 
 ```bash
-      wget -q -O fluidd.zip https://github.com/fluidd-core/fluidd/releases/latest/download/fluidd.zip
+wget -q -O fluidd.zip https://github.com/fluidd-core/fluidd/releases/latest/download/fluidd.zip
 ```
 
     - распаковать архив fluidd.zip, затем опционально можно удалить сам архив:
 
 ```bash
-      unzip fluidd.zip
-      rm fluidd.zip
+unzip fluidd.zip
+rm fluidd.zip
 ```
 
     - чтобы новая версия fluidd стала доступна, нужно перестартовать web сервер (nginx):
 
 ```bash
-    sudo service nginx restart
+sudo service nginx restart
 ```
