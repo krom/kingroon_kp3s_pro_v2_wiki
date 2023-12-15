@@ -14,19 +14,23 @@ Fluidd - это web интерфейс принтера который стан�
 ```sh
       mv fluidd fluidd.bak
 ```
+
   - заново создать директорию fluidd и перейти в нее:
 ```sh
       mkdir fluidd;cd fluidd
 ```
+
     - загрузить последнюю версию fluidd:
 ```sh
       wget -q -O fluidd.zip https://github.com/fluidd-core/fluidd/releases/latest/download/fluidd.zip
 ```
+   
     - распаковать архив fluidd.zip, затем опционально можно удалить сам архив:
 ```sh
       unzip fluidd.zip
       rm fluidd.zip
 ```
+    
     - чтобы новая версия fluidd стала доступна, нужно перестартовать web сервер (nginx):
 ```sh
     sudo service nginx restart
