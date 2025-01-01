@@ -5,6 +5,7 @@
   * [SSH доступ](manuals/ssh_ru.md)
   * [Настройка wifi на принтере](manuals/wifi_connection_setup.md)
   * [Подключение к принтеру через сериальную консоль](manuals/serial_console_connection_ru.md)
+  * [Обновление версии fluidd](manuals/fluidd_update_ru.md)
 * [Известные проблемы](known_issues)
   * [Пластиковые проставки под платой на голове](known_issues/MKS_THR_Spacers_ru.md)
   * [Недостаточно затянутое сопло](known_issues/Nozzle_not_tight_ru.md) 
@@ -12,7 +13,8 @@
   * [Штатная улитка обдува не регулирует мощность](known_issues/Blowing_power_cannot_be_ajusted_ru.md)
   * [Проблема с упором головы по оси X](known_issues/x_offset_ru.md)
   * [Перевернутая скоба натяжителя ремня](known_issues/Inverted_tensioner_bracket_ru.md)
-  * [Неправильные настройки шагов экструдера](known_issues/rotation_distance_ru.md)<
+  * [Неправильные настройки шагов экструдера](known_issues/rotation_distance_ru.md)
+  * [Не отображается карта стола](known_issues/fluidd_not_show_mesh_ru.md)
 * [Советы по печати](tips)
   * [Клей](tips/Printing_glue_ru.md)
 * [Апгрейд](upgrade)
